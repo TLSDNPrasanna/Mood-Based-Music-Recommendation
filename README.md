@@ -9,7 +9,7 @@ Features
 - Recommends songs based on the detected emotion.
 - Interactive Gradio web interface.
 - Runs easily in Google Colab.
-- 
+  
 Supported Emotions
 
 The model recommends songs for emotions such as:
@@ -24,9 +24,15 @@ The model recommends songs for emotions such as:
 Tech Stack
 
 Technology -	Purpose
+
 Python -	Programming Language
+
 TensorFlow/Keras -	Emotion Recognition Model
+
 OpenCV -	Face Detection
+
 NumPy -	Image Processing
+
 Gradio - Web Interface
+
 Google Colab - Development Environment
